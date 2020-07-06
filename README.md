@@ -15,8 +15,9 @@ ___
 
 
 ##### Features:
-- **Local Storage** your target task and your name are stored in the local storage of the browser
-- **Changable Background** depending on the time of the day (Morning / Afternoon / Evening )
-- **Good Design**
+- **Local Storage:** your target task and your name are stored in the local storage of the browser
+- **Changable Background:** depending on the time of the day (Morning / Afternoon / Evening )
+- **Time is up to date:**
+- **Good Design:**
 
 
